@@ -2,7 +2,7 @@
 
 namespace SGN\HasOneEdit;
 
-use SilverStripe\ORM\DataExtension;
+use SilverStripe\Core\Extension;
 use SilverStripe\ORM\DataObject;
 
 class DataObjectExtension extends DataExtension
