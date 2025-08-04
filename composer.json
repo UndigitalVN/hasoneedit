@@ -1,17 +1,14 @@
 {
-    "name": "stevie-mayhew/hasoneedit",
+    "name": "undigitalvn/hasoneedit",
     "type": "silverstripe-vendormodule",
     "description": "Allows editing the fields of a has_one object directly in the CMS",
     "keywords": ["silverstripe", "has_one", "cms"],
-    "license": "WTFPL",
     "authors": [{
-        "name": "Simon Welsh",
-        "email": "simon@simon.geek.nz",
-        "homepage": "http://simon.geek.nz"
-    }],
+		"name": "Undigital VN",
+		"email": "support@undigital.com.au"
+	}],
     "require": {
-        "silverstripe/framework": "~4.0 || ~5.0",
-        "silverstripe/asset-admin": "~1.0 || ~2.0"
+        "silverstripe/framework": "^6.0"
     },
     "replace" : {
         "simonwelsh/hasoneedit": "*"
